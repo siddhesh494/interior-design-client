@@ -8,6 +8,7 @@ module.exports = {
       fontFamily: {
         montserrat: ["Montserrat", "sans-serif"],
         roboto: ["Roboto", "sans-serif"],
+        serif: ['"Playfair Display"', 'serif'],
       },
       backgroundImage: {
         'header': "url('/src/assests/images/sofa_with_painting.jpg')",

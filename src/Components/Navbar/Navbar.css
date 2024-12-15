@@ -2,14 +2,34 @@
 
 /* we have to hide left part of navbar when it goes below 600px */
 
-
+.navbar-icon {
+  width: 20px;
+}
 
 @media screen and (max-width: 600px) {
   /* this will be aplicable if size is below 600px */
+  .navbar-icon {
+    width: 15px;
+  }
   .navbar-container {
     justify-content: end;
   }
   .navbar-left {
     display: none
+  }
+}
+
+
+@media screen and (max-width: 500px) {
+  /* this will be aplicable if size is below 600px */
+  .navbar-icon {
+    width: 12px;
+  }
+}
+
+@media screen and (max-width: 400px) {
+  /* this will be aplicable if size is below 600px */
+  .navbar-icon {
+    width: 10px;
   }
 }

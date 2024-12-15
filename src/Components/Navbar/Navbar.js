@@ -15,29 +15,29 @@ function Navbar() {
           <p className='text-white font-montserrat font-extralight text-sm cursor-pointer'>About Us</p>
           <p className='text-white font-montserrat font-extralight text-sm cursor-pointer'>Contact</p>
         </div>
-        <div className='flex flex-row space-x-9'>
+        <div className='flex flex-row space-x-3 sm:space-x-9'>
           <div>
             <img 
               alt="instagram"
               src={InstagramIcon}
-              width={25}
-              className='cursor-pointer'
+              // width={25}
+              className='cursor-pointer navbar-icon'
             />
           </div>
           <div>
             <img 
               alt="instagram"
               src={FacebookIcon}
-              width={25}
-              className='cursor-pointer'
+              // width={25}
+              className='cursor-pointer navbar-icon'
             />
           </div>
           <div>
             <img 
               alt="instagram"
               src={YoutubeIcon}
-              width={25}
-              className='cursor-pointer'
+              // width={25}
+              className='cursor-pointer navbar-icon'
             />
           </div>
         </div>

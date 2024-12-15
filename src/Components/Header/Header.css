@@ -1,0 +1,118 @@
+
+
+.create-text {
+  font-size: 80px;
+}
+
+.comfort-text {
+  font-size: 20px;
+  bottom: 30px;
+  left: 30px;
+}
+
+.header-tagline {
+  font-size: 16px;
+}
+
+
+@media screen and (max-width: 800px) {
+  /* this will be applicable if size is below max-width */
+  .create-text {
+    font-size: 40px;
+  }
+  
+  .comfort-text {
+    font-size: 10px;
+    bottom: 15px;
+    left: 20px;
+  }
+  .header-tagline {
+    font-size: 12px;
+  }
+}
+
+
+@media screen and (max-width: 650px) {
+  /* this will be applicable if size is below max-width */
+  .create-text {
+    font-size: 32px;
+  }
+  
+  .comfort-text {
+    font-size: 9px;
+    bottom: 12px;
+    left: 15px;
+  }
+
+  .header-tagline {
+    font-size: 10px;
+  }
+}
+
+@media screen and (max-width: 530px) {
+  /* this will be applicable if size is below max-width */
+  .create-text {
+    font-size: 30px;
+  }
+  
+  .comfort-text {
+    font-size: 8px;
+    bottom: 10px;
+    left: 12px;
+  }
+  .header-tagline {
+    font-size: 8px;
+  }
+}
+
+@media screen and (max-width: 420px) {
+  /* this will be applicable if size is below max-width */
+  .create-text {
+    font-size: 25px;
+  }
+  
+  .comfort-text {
+    font-size: 7px;
+    bottom: 10px;
+    left: 12px;
+  }
+  .header-tagline {
+    font-size: 6px;
+  }
+}
+
+@media screen and (max-width: 380px) {
+  /* this will be applicable if size is below max-width */
+  .create-text {
+    font-size: 22px;
+  }
+  
+  .comfort-text {
+    font-size: 6px;
+    bottom: 8px;
+    left: 10px;
+  }
+  .header-tagline {
+    font-size: 5px;
+  }
+}
+
+@media screen and (max-width: 250px) {
+  /* this will be applicable if size is below max-width */
+  .create-text {
+    font-size: 15px;
+  }
+  
+  .comfort-text {
+    font-size: 3px;
+    bottom: 5px;
+    left: 8px;
+  }
+}
+
+
+@media screen and (max-width: 600px) {
+  /* this will be applicable if size is below 600px */
+
+
+}

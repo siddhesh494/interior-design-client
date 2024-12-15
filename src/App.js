@@ -3,7 +3,7 @@ import Header from './Components/Header/Header';
 
 function App() {
   return (
-    <div className="bg-background min-h-screen">
+    <div className="bg-background min-h-screen text-white">
       
       {/* header section */}
       <Header />
