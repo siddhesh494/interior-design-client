@@ -1,0 +1,145 @@
+
+
+.contact-head {
+  font-size: 25px;
+}
+
+.comfort-text {
+  font-size: 20px;
+  bottom: 30px;
+  left: 30px;
+}
+
+.contact-tagline {
+  font-size: 16px;
+}
+.input-bar {
+  all: unset;
+  background-color: transparent;
+  border-bottom: 1px solid white;
+  font-size: 20px;
+  width: 100%;
+}
+
+.submit-button {
+  font-size: 20px;
+  border-radius: 20px;
+}
+
+.submit-button:hover {
+  border: 1px solid black;
+  background-color: white;
+  color: black;
+}
+
+@media screen and (max-width: 800px) {
+  /* this will be applicable if size is below max-width */
+  .contact-head {
+    font-size: 20px;
+  }
+  
+  .comfort-text {
+    font-size: 10px;
+    bottom: 15px;
+    left: 20px;
+  }
+  .input-bar, .submit-button {
+    font-size: 10px;
+  }
+  .contact-tagline {
+    font-size: 12px;
+  }
+}
+
+
+@media screen and (max-width: 650px) {
+  /* this will be applicable if size is below max-width */
+  .contact-head {
+    font-size: 15px;
+  }
+  
+  .comfort-text {
+    font-size: 9px;
+    bottom: 12px;
+    left: 15px;
+  }
+  .input-bar, .submit-button  {
+    font-size: 9px;
+  }
+  .contact-tagline {
+    font-size: 10px;
+  }
+}
+
+@media screen and (max-width: 530px) {
+  /* this will be applicable if size is below max-width */
+  .contact-head {
+    font-size: 12px;
+  }
+  
+  .comfort-text {
+    font-size: 8px;
+    bottom: 10px;
+    left: 12px;
+  }
+  .input-bar, .submit-button  {
+    font-size: 8px;
+  }
+  .contact-tagline {
+    font-size: 8px;
+  }
+}
+
+@media screen and (max-width: 430px) {
+  /* this will be applicable if size is below max-width */
+  .contact-head {
+    font-size: 8px;
+  }
+  
+  .comfort-text {
+    font-size: 7px;
+    bottom: 10px;
+    left: 12px;
+  }
+  .input-bar, .submit-button  {
+    font-size: 7px;
+  }
+  .contact-tagline {
+    font-size: 6px;
+  }
+}
+
+@media screen and (max-width: 380px) {
+  /* this will be applicable if size is below max-width */
+  .contact-head {
+    font-size: 8px;
+  }
+  
+  .comfort-text {
+    font-size: 6px;
+    bottom: 8px;
+    left: 10px;
+  }
+  .input-bar, .submit-button  {
+    font-size: 6px;
+  }
+  .contact-tagline {
+    font-size: 5px;
+  }
+}
+
+@media screen and (max-width: 250px) {
+  /* this will be applicable if size is below max-width */
+  .contact-head {
+    font-size: 7px;
+  }
+  
+  .comfort-text {
+    font-size: 3px;
+    bottom: 5px;
+    left: 8px;
+  }
+  .input-bar, .submit-button  {
+    font-size: 3px;
+  }
+}

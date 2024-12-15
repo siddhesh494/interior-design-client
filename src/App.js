@@ -1,5 +1,7 @@
 import './App.css';
+import Contact from './Components/ContactUs/Contact';
 import Header from './Components/Header/Header';
+import Introduction from './Components/Introduction/Introduction';
 
 function App() {
   return (
@@ -10,10 +12,12 @@ function App() {
 
 
       {/* introduction */}
+      <Introduction />
 
       {/* Project Showcase */}
 
       {/* Contact Us */}
+      <Contact />
 
 
     </div>

@@ -12,6 +12,7 @@ module.exports = {
       },
       backgroundImage: {
         'header': "url('/src/assests/images/sofa_with_painting.jpg')",
+        'footer': "url('/src/assests/images/fireplace.jpg')",
       },
       colors: {
         background: '#1C1C1C',
