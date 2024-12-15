@@ -1,0 +1,15 @@
+
+
+/* we have to hide left part of navbar when it goes below 600px */
+
+
+
+@media screen and (max-width: 600px) {
+  /* this will be aplicable if size is below 600px */
+  .navbar-container {
+    justify-content: end;
+  }
+  .navbar-left {
+    display: none
+  }
+}
