@@ -31,7 +31,7 @@ function Header() {
           </div>
         </div>
         <div className='flex flex-col items-center'>
-          <p className='w-[70%] header-tagline font-light tracking-wider'>
+          <p className='w-[90%] md:w-[70%] header-tagline font-light tracking-wider'>
             Transforming spaces into works of art. 
             Explore the harmony of modern design and architecture tailored to perfection.
           </p>

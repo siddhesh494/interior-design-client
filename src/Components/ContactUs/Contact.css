@@ -47,7 +47,7 @@
     font-size: 10px;
   }
   .contact-tagline {
-    font-size: 12px;
+    font-size: 16px;
   }
 }
 
@@ -55,7 +55,7 @@
 @media screen and (max-width: 650px) {
   /* this will be applicable if size is below max-width */
   .contact-head {
-    font-size: 15px;
+    font-size: 16px;
   }
   
   .comfort-text {
@@ -67,14 +67,14 @@
     font-size: 9px;
   }
   .contact-tagline {
-    font-size: 10px;
+    font-size: 14px;
   }
 }
 
 @media screen and (max-width: 530px) {
   /* this will be applicable if size is below max-width */
   .contact-head {
-    font-size: 12px;
+    font-size: 14px;
   }
   
   .comfort-text {
@@ -86,14 +86,14 @@
     font-size: 8px;
   }
   .contact-tagline {
-    font-size: 8px;
+    font-size: 10px;
   }
 }
 
 @media screen and (max-width: 430px) {
   /* this will be applicable if size is below max-width */
   .contact-head {
-    font-size: 8px;
+    font-size: 12px;
   }
   
   .comfort-text {
@@ -105,14 +105,14 @@
     font-size: 7px;
   }
   .contact-tagline {
-    font-size: 6px;
+    font-size: 10px;
   }
 }
 
 @media screen and (max-width: 380px) {
   /* this will be applicable if size is below max-width */
   .contact-head {
-    font-size: 8px;
+    font-size: 12px;
   }
   
   .comfort-text {
@@ -124,14 +124,14 @@
     font-size: 6px;
   }
   .contact-tagline {
-    font-size: 5px;
+    font-size: 8px;
   }
 }
 
 @media screen and (max-width: 250px) {
   /* this will be applicable if size is below max-width */
   .contact-head {
-    font-size: 7px;
+    font-size: 8px;
   }
   
   .comfort-text {

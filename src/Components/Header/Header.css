@@ -27,7 +27,7 @@
     left: 20px;
   }
   .header-tagline {
-    font-size: 12px;
+    font-size: 16px;
   }
 }
 
@@ -45,7 +45,7 @@
   }
 
   .header-tagline {
-    font-size: 10px;
+    font-size: 14px;
   }
 }
 
@@ -61,14 +61,14 @@
     left: 12px;
   }
   .header-tagline {
-    font-size: 8px;
+    font-size: 10px;
   }
 }
 
 @media screen and (max-width: 420px) {
   /* this will be applicable if size is below max-width */
   .create-text {
-    font-size: 25px;
+    font-size: 27px;
   }
   
   .comfort-text {
@@ -77,42 +77,35 @@
     left: 12px;
   }
   .header-tagline {
-    font-size: 6px;
+    font-size: 10px;
   }
 }
 
 @media screen and (max-width: 380px) {
   /* this will be applicable if size is below max-width */
   .create-text {
-    font-size: 22px;
+    font-size: 25px;
   }
   
   .comfort-text {
-    font-size: 6px;
+    font-size: 9px;
     bottom: 8px;
     left: 10px;
   }
   .header-tagline {
-    font-size: 5px;
+    font-size: 8px;
   }
 }
 
 @media screen and (max-width: 250px) {
   /* this will be applicable if size is below max-width */
   .create-text {
-    font-size: 15px;
+    font-size: 19px;
   }
   
   .comfort-text {
-    font-size: 3px;
+    font-size: 7px;
     bottom: 5px;
     left: 8px;
   }
-}
-
-
-@media screen and (max-width: 600px) {
-  /* this will be applicable if size is below 600px */
-
-
 }
