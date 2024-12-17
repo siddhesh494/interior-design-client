@@ -4,7 +4,7 @@ import './Header.css'
 
 function Header() {
   return (
-    <div className='relative w-full aspect-[12/6] bg-header bg-cover bg-center'>
+    <div className='relative w-full aspect-[12/16]  md:aspect-[12/6] bg-header bg-cover bg-center'>
       
       <div className="absolute inset-y-0 left-0 w-1/2 bg-black bg-opacity-40 bg-pattern content-center">
         <div className='flex flex-col items-center'>
